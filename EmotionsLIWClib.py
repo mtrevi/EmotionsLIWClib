@@ -183,6 +183,4 @@ class LIWCObj:
             print 'FAILED - (%s) %s' %(str(score),test)
             failed += 1
          #
-      #
-      # return False if failed > 0 else True
       ##
