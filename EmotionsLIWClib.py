@@ -184,5 +184,5 @@ class LIWCObj:
             failed += 1
          #
       #
-      return False if failed > 0 else True
+      # return False if failed > 0 else True
       ##
