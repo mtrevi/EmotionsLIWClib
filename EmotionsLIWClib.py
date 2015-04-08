@@ -155,7 +155,9 @@ class LIWCObj:
       return { 'posemo': cats[ POSEMO ], 'negemo': cats[ NEGEMO ] }
 
 
-   ''' Unittest. '''
+   ''' Unittest. 
+      Few test sentences with known emotions are given.
+   '''
    def unittest(self):
       failed = 0
       # set test sets
